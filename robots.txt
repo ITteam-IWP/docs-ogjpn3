@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ngauw5.ai-photo-stock.com/sitemap.xml
